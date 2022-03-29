@@ -7,3 +7,7 @@ Olá, eu sou Amilton, entrei nesse curso com o objetivo de mudar de carreira e a
 - Adoro fazer trilhas
 - Fiz os armários da minha casa
 - Gosto de acampar
+
+## Tempo programando
+- em 2011 tive o meu primeiro contato com programação (pascal)
+- já tive contato com javascript, nodejs, nestjs, python, java, c, c++, php
