@@ -11,3 +11,8 @@ Olá, eu sou Amilton, entrei nesse curso com o objetivo de mudar de carreira e a
 ## Tempo programando
 - em 2011 tive o meu primeiro contato com programação (pascal)
 - já tive contato com javascript, nodejs, nestjs, python, java, c, c++, php
+
+## Meu computador
+- Dell G7
+- 1050 TI
+- 8GB RAM
